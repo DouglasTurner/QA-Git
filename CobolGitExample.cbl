@@ -16,4 +16,5 @@
 
            1000-mainline.
                display 'example'.
+               display 'This is my change in code'.
        end program CobolGitExample.
